@@ -1,0 +1,19 @@
+{
+  "name": "graphql-distributed-schema-example",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Amir Saboury",
+  "license": "MIT",
+  "dependencies": {
+    "casual": "^1.5.10",
+    "co": "^4.6.0",
+    "graphql": "^0.9.1",
+    "graphql-dschema": "*",
+    "koa": "^1.2.5",
+    "koa-graphql": "^0.6.2",
+    "koa-router": "^5.4.0",
+    "sequelize": "^3.30.2",
+    "sqlite3": "^3.1.8"
+  }
+}
